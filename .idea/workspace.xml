@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b708d7b8-903c-4a21-bd01-d701478615bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1iaemj7fYKnOcqZqtv2bHLy8us3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b708d7b8-903c-4a21-bd01-d701478615bf" name="Default Changelist" comment="" />
+      <created>1602150291064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602150291064</updated>
+      <workItem from="1602150293021" duration="333000" />
+      <workItem from="1604657189466" duration="99000" />
+      <workItem from="1604657327473" duration="2788000" />
+      <workItem from="1604735694899" duration="912000" />
+      <workItem from="1604990794433" duration="3404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1499" y="152" key="#ESLint" timestamp="1604990819140">
+      <screen x="-1920" y="-52" width="1920" height="1057" />
+    </state>
+    <state x="-1499" y="152" key="#ESLint/-1920.-52.1920.1057/0.23.1440.793@-1920.-52.1920.1057" timestamp="1604990819140" />
+    <state x="-1499" y="136" key="#ESLint/-1920.-52.1920.973/0.23.1440.877@-1920.-52.1920.973" timestamp="1604659528656" />
+    <state x="-1682" y="228" key="#SQL_Dialects" timestamp="1604657358268">
+      <screen x="-1920" y="-52" width="1920" height="973" />
+    </state>
+    <state x="-1682" y="228" key="#SQL_Dialects/-1920.-52.1920.973/0.23.1440.877@-1920.-52.1920.973" timestamp="1604657358268" />
+    <state x="-1486" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604657382763">
+      <screen x="-1920" y="-52" width="1920" height="973" />
+    </state>
+    <state x="-1486" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-52.1920.973/0.23.1440.877@-1920.-52.1920.973" timestamp="1604657382763" />
+    <state width="1476" height="230" key="GridCell.Tab.0.bottom" timestamp="1604660394933">
+      <screen x="-1920" y="-52" width="1920" height="973" />
+    </state>
+    <state width="1476" height="230" key="GridCell.Tab.0.bottom/-1920.-52.1920.973/0.23.1440.877@-1920.-52.1920.973" timestamp="1604660394933" />
+    <state width="1476" height="230" key="GridCell.Tab.0.center" timestamp="1604660394932">
+      <screen x="-1920" y="-52" width="1920" height="973" />
+    </state>
+    <state width="1476" height="230" key="GridCell.Tab.0.center/-1920.-52.1920.973/0.23.1440.877@-1920.-52.1920.973" timestamp="1604660394932" />
+    <state width="1476" height="230" key="GridCell.Tab.0.left" timestamp="1604660394932">
+      <screen x="-1920" y="-52" width="1920" height="973" />
+    </state>
+    <state width="1476" height="230" key="GridCell.Tab.0.left/-1920.-52.1920.973/0.23.1440.877@-1920.-52.1920.973" timestamp="1604660394932" />
+    <state width="1476" height="230" key="GridCell.Tab.0.right" timestamp="1604660394932">
+      <screen x="-1920" y="-52" width="1920" height="973" />
+    </state>
+    <state width="1476" height="230" key="GridCell.Tab.0.right/-1920.-52.1920.973/0.23.1440.877@-1920.-52.1920.973" timestamp="1604660394932" />
+    <state x="-1577" y="30" key="SettingsEditor" timestamp="1604659281086">
+      <screen x="-1920" y="-52" width="1920" height="973" />
+    </state>
+    <state x="-1577" y="30" key="SettingsEditor/-1920.-52.1920.973/0.23.1440.877@-1920.-52.1920.973" timestamp="1604659281086" />
+  </component>
+</project>
